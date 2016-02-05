@@ -1,0 +1,28 @@
+name: Sturgeon Projects
+favicon: null
+layout_spectrum: 0.7220948808826506
+typography_spectrum: 0.8754092291928828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.32575628929771483
+  lightness: 0.575687607517466
+  saturation: 0.5571439885534346
+  rhythmicContrast: 0.5770196369849145
+purpose: []
